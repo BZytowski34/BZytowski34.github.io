@@ -1,3 +1,8 @@
+---
+layout: post
+title: Palindrome
+---
+```python
 def first(word):
     return word[0]
 
@@ -34,3 +39,4 @@ def is_palindrome(word):
     if first(word) != last(word):
         return False
     return is_palindrome(middle(word))"""
+```
