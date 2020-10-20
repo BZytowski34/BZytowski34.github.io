@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ch12_Scripts
+---
+```python
 def sumall(*n):
     """n is a tuple, or any number of arguments"""
     total = 0
@@ -100,3 +105,4 @@ print_anagram_sets_in_order(d)
 
 eight_letters = filter_length(d, 8)
 print_anagram_sets_in_order(eight_letters)
+```
