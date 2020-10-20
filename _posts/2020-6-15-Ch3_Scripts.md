@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ch3_Scripts
+---
+```python
 ##Exercise 3.3 write a function named right_justify that takes
 ##a string named s as a parameter and prints the string
 ##with enough leading spaces so that the last letter of
@@ -80,3 +85,4 @@ def print_grid():
     one_four_one(print4beam, print_row, nothing)
 
 print_grid()
+```
