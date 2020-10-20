@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ch10_Scripts
+---
+```python
 def nested_sum(t):
     diff = 0
     i = 0
@@ -178,3 +183,4 @@ if __name__ == '__main__':
     
     for word in ['alien', 'allen']:
         print(word, 'in list', in_bisect(word_list, word))
+```
