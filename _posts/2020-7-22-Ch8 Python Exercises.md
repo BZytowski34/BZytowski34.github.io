@@ -1,3 +1,9 @@
+---
+layout: post
+title: Ch8_Scripts
+---
+
+```python
 a = 4
 x = 3
 y=(x+(a/x))/2
@@ -137,3 +143,4 @@ def rotate_word(word, n):
         res += rotate_letter(letter,n)
     return res
         
+```
