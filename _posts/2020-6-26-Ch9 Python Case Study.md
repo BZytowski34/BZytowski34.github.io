@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ch9_Case_Study
+---
+```python
 fin = open('words.txt')
 print(fin)
 
@@ -115,3 +120,4 @@ def check_diffs():
         if n>0:
             print(diff, n)
         diff = diff +1
+```
