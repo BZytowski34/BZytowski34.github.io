@@ -1,3 +1,8 @@
+---
+layout: post
+title: Mypolygon
+---
+``` python
 import tkinter
 pip install swampy
 import swampy
@@ -119,3 +124,4 @@ def pie(t,n,r,angle):
         lt(t, 180-angle)
 
 wait_for_user()
+```
