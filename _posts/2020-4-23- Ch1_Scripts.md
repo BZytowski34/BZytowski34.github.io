@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ch1_Scripts.py
+title: Ch1_Scripts
 ---
 ```python
 s = 'hi'
