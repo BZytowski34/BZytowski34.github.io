@@ -1,3 +1,9 @@
+---
+layout: post
+title: Ch11_Scripts
+---
+```python
+
 eng2sp = dict()
 eng2sp['one'] = 'uno'
 print(eng2sp)
@@ -105,3 +111,4 @@ def rotate_pairs(dictionary, word):
 dictionary = words_dictionary('words.txt')
 for word in dictionary:
     rotate_pairs(dictionary, word)
+```
