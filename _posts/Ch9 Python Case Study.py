@@ -1,10 +1,10 @@
 fin = open('words.txt')
 print(fin)
 
-"""fin = open('words.txt')
+fin = open('words.txt')
 for line in fin:
     word = line.strip()
-    print(word)"""
+    print(word)
 
 
 def big_words(file):
