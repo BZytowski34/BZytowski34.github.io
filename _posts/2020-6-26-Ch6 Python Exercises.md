@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ch6_Sripts    
+---
+```python
 """Write a compare function that reutnrs 1
 if x>y, 0 if x==y, and -1 if x<y."""
 
@@ -81,3 +86,4 @@ def gcd(a,b):
         return r
     else:
         return gcd(b,r)
+```
