@@ -2,7 +2,7 @@
 layout: post
 title: Ch1_Scripts.py
 ---
-
+```python
 s = 'hi'
 print(s[1])
 print(len(s))
@@ -47,3 +47,4 @@ text = ("%d little pigs come out,
 % (3, 'huff', 'puff', 'house'))
 print(text)
 
+```
