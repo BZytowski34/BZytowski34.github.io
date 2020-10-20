@@ -1,3 +1,9 @@
+---
+layout: post
+title: Ch2_Scripts
+---
+
+```python
 print(5)
 x=5
 print(x+1)
@@ -26,3 +32,4 @@ end_time_hour = end_time_in_seconds//3600
 end_time_min = (end_time_in_seconds-(end_time_hour*3600))//60
 end_time_seconds = end_time_in_seconds - (end_time_hour*3600) - (end_time_min*60)
 print(end_time_hour,':', end_time_min, ':', end_time_seconds)
+```
