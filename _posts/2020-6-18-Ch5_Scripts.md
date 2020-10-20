@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ch5_Scripts
+---
+```python
 #5.3
 
 import math
@@ -118,3 +123,4 @@ def equilateral_triangle(t, length):
     lt(t, 120)
     fd(t, length)
     lt(t, 120)
+```
