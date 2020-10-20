@@ -50,3 +50,4 @@ text = ("%d little pigs come out,
 " and I'll blow your house %s down." 
 % (3, 'huff', 'puff', 'house'))
 print(text)
+
